@@ -1,2 +1,1 @@
-
-spring.main.sources: com.michaelhoffmantech.microservice.ordermanagement.MySpringBootRouter
+spring.main.sources: com.nvisia.swagger.springboot.config.Application
